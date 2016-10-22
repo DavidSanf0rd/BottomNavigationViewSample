@@ -5,18 +5,18 @@
         android:id="@+id/action_favorites"
         android:enabled="true"
         android:icon="@drawable/ic_favorite_white_24dp"
-        android:title="@string/text_favorites"
+        android:title=""
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_schedules"
         android:enabled="true"
         android:icon="@drawable/ic_access_time_white_24dp"
-        android:title="@string/text_schedules"
+        android:title=""
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_music"
         android:enabled="true"
         android:icon="@drawable/ic_audiotrack_white_24dp"
-        android:title="@string/text_music"
+        android:title=""
         app:showAsAction="ifRoom" />
 </menu>
